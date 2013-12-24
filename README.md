@@ -3,6 +3,9 @@
 #### For Overview, documentation, usage, try it, examples see
 #### [http://lispyscript.com](http://lispyscript.com)
 
+This is a fork of the original [https://github.com/santoshrajan/lispyscript](LispyScript). This fork allows you to compile
+arbitrary LispyScript expressions into Javascript functions at run-time.
+
 ## A Javascript with Lispy syntax and Macros!
 Lispyscript is Javascript using a 'Lispy' syntax, and compiles to Javascript.
 
